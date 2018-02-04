@@ -9,3 +9,6 @@ title = "Tasty Licks"
     name = "About"
     url  = "/about"
     weight = 1
+    name = "Food"
+    url = "/food"
+    weight = 2
