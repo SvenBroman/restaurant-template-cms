@@ -16,4 +16,8 @@ title = "Happy Dan's"
 [[menu.main]]
    name = "Drinks"
    url  = "/drinks"
-   weight = 3    
+   weight = 3
+[[menu.main]]
+    name = "Gallery"
+    url  = "/gallery"
+    weight = 4       
